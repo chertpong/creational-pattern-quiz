@@ -1,7 +1,7 @@
 # creational-pattern-quiz
 Pattern to use - Singleton, Factory
 Pattern to explain Factory
-##LoggerFactory ((LoggerFactory)[https://github.com/chertpong/creational-pattern-quiz/blob/master/src/main/java/com/kritacademy/audit/LoggerFactory.java])
+##LoggerFactory ( [LoggerFactory](https://github.com/chertpong/creational-pattern-quiz/blob/master/src/main/java/com/kritacademy/audit/LoggerFactory.java) )
 Factory pattern comes to help us when we want to switch the implementation of some class or the creation process is complicate.
 
 When combine with DI(dependency injection) and IOC (Inversion of Control) we can switch the implementation freely
