@@ -16,4 +16,4 @@ In the example, we want to change from LoggerImpl to LoggerInMemory
 
 (see what class has switched if we change that line [1](https://github.com/chertpong/creational-pattern-quiz/blob/master/src/main/java/com/kritacademy/booking/BookingServiceImpl.java#L14), [2](https://github.com/chertpong/creational-pattern-quiz/blob/master/src/main/java/com/kritacademy/booking/BookingController.java#L13))
 
-
+![class-diagram](https://github.com/chertpong/creational-pattern-quiz/blob/master/class-diagram.JPG)
