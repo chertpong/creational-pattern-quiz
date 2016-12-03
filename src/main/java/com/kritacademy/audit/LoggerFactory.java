@@ -9,7 +9,7 @@ public class LoggerFactory {
     private static Logger logger;
     public static Logger getLogger(){
         if(logger == null) {
-            logger = new LoggerImpl();
+            logger = new LoggerDecorator();
             return logger;
         }
         else {
